@@ -18,7 +18,7 @@ _This is another Javascript and jQuery page assigned for pair programming on Wed
 [Epicodus](https://epicodus.com)._
 
 _From [our curriculum](https://learnhowtoprogram.com), the assignment:_
-- [Forms](https://www.learnhowtoprogram.com/introduction-to-programming/javascript-and-jquery/debugging-in-javascript-pausing-on-exceptions)
+- [Forms](https://www.learnhowtoprogram.com/introduction-to-programming/javascript-and-jquery/debugging-in-javascript-reading-console-errors)
 
 This is a fork of our previous repository: https://github.com/tiffarodrigs/Mad-Libs
 
@@ -29,9 +29,9 @@ _You can find more of our work at:_
 
 ## Setup/Installation Requirements
 
-- _Live site: <https://tiffarodrigs.github.io/debugging-javascript>_
+- _Live site: <https://k9w.github.io/debugging-javascript>_
 - _To contribute, clone the repo from:_
-- _<https://github.com/tiffarodrigs/debugging-javascript>_
+- _<https://github.com/k9w/debugging-javascript>_
 
 ## Known Bugs
 
